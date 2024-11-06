@@ -10,7 +10,3 @@ Finaly the web app(for for booking a room), and the desktyop app for filling the
 
 
 
-
-
-https://user-images.githubusercontent.com/65740750/155845214-c13b8633-150a-407d-a7f8-b905bf506bf4.mp4
-
